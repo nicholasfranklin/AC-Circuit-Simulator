@@ -1,5 +1,6 @@
 # PROGRAMMING A CIRCUIT SIMULATOR WITH MODIFIED NODAL ANALYSIS
 
+Project for PHYS30762 at the University of Manchester
 
 This repository explores the design of an AC circuit simulator implemented in C++ using Modified Nodal Analysis
 (MNA). The simulator supports arbitrary closed circuits consisting solely of resistors, inductors, and

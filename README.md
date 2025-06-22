@@ -18,9 +18,3 @@ Quick and simple guide on how to use MNA
 Example usage of the programme can be found in the `Examples` folder.
 
 
-# DECLARATION OF USE OF AI
-- During this project, ChatGPT was used. This included help with design ideas, automating repetitive tasks, error debugging, and help with MakeFiles.
-
-# To Compile
-Use the makefile: write `mingw32-make` in the terminal. Alternatively, type `g++ -Wall -Wextra -std=c++17 -IMNA/include -IExamples (Get-ChildItem MNA/src/*.cxx, Examples/*.cxx, Examples/*.cpp | ForEach-Object { $_.FullName }) -o main.exe` in the terminal. 
-
